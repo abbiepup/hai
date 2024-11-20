@@ -1,0 +1,5 @@
+[package]
+name = "riscv64"
+version = "0.1.0"
+edition.workspace = true
+repository.workspace = true
